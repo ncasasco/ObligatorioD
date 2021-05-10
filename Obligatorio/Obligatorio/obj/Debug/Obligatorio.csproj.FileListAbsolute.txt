@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
