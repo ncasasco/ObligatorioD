@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorio", "Obligatorio\Obligatorio.csproj", "{7BC93269-48FA-49E1-B102-E04306649DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{530D5A22-0295-412F-A3DF-58A8068C70C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "Domain\BusinessLogic.csproj", "{530D5A22-0295-412F-A3DF-58A8068C70C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Test", "Dominio.Test\BusinessLogic.Test.csproj", "{71066489-DB4B-4085-BA36-951AEA6E8CBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{530D5A22-0295-412F-A3DF-58A8068C70C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530D5A22-0295-412F-A3DF-58A8068C70C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530D5A22-0295-412F-A3DF-58A8068C70C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71066489-DB4B-4085-BA36-951AEA6E8CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71066489-DB4B-4085-BA36-951AEA6E8CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71066489-DB4B-4085-BA36-951AEA6E8CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71066489-DB4B-4085-BA36-951AEA6E8CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
