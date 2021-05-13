@@ -1,6 +1,5 @@
 C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\bin\Debug\Domain.dll
 C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\bin\Debug\Domain.pdb
-C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
 C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\obj\Debug\Domain.dll
 C:\Users\Hp\Desktop\Nico ORT\Semestre 1 2021\Diseño\Obligatorio\Obligatorio\Domain\obj\Debug\Domain.pdb

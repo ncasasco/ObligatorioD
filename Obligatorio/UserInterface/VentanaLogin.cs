@@ -26,7 +26,9 @@ namespace UserInterface
         {
             if(txtUser.Text == "123" && txtPassword.Text == "123")
             {
-
+                this.Hide();
+                VentanaGestor newWindow = new VentanaGestor();
+                newWindow.Show();
             }
             else
             {

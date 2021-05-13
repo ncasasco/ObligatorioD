@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContrasenasView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ContrasenasView.Designer.cs">
+      <DependentUpon>ContrasenasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TarjetasView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TarjetasView.Designer.cs">
+      <DependentUpon>TarjetasView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaGestor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaGestor.Designer.cs">
+      <DependentUpon>VentanaGestor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoriasView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CategoriasView.Designer.cs">
+      <DependentUpon>CategoriasView.cs</DependentUpon>
+    </Compile>
     <Compile Include="VentanaLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +78,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ContrasenasView.resx">
+      <DependentUpon>ContrasenasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TarjetasView.resx">
+      <DependentUpon>TarjetasView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaGestor.resx">
+      <DependentUpon>VentanaGestor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoriasView.resx">
+      <DependentUpon>CategoriasView.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="VentanaLogin.resx">
       <DependentUpon>VentanaLogin.cs</DependentUpon>
     </EmbeddedResource>

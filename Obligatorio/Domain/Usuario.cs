@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain
+namespace BusinessLogic
 {
     public class Usuario
     {
-        private string Nombre { get; set; }
-        private string Contraseña { get; set; }
+        public string Nombre { get; set; }
+        public string Contraseña { get; set; }
     }
 }
